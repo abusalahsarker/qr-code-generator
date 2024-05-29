@@ -2,15 +2,15 @@ QR Code Generator
 This is a simple web application for generating QR codes from URLs. It allows users to enter a URL, generate a corresponding QR code, and download the QR code image.
 
 Features:
-Generate QR codes from URLs.
-Download generated QR codes as PNG images.
+Generate QR codes from URLs,
+Download generated QR codes as PNG images,
 Responsive design for various screen sizes.
 
 Technologies Used:
-HTML
-CSS
-JavaScript
-qrcode library for generating QR codes
+HTML,
+CSS,
+JavaScript,
+qrcode library for generating QR codes.
 
 Usage
 Clone the repository:
