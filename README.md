@@ -15,7 +15,7 @@ qrcode library for generating QR codes.
 Usage
 Clone the repository:
 
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/abusalahsarker/qr-code-generator.git
 
 Open the index.html file in your web browser.
 
@@ -26,3 +26,4 @@ The generated QR code will be displayed below. Click "Download QR Code" to save 
 
 License
 This project is licensed under the MIT License.
+
