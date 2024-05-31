@@ -1,6 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     height: 100vh;
@@ -64,6 +65,13 @@ button:hover {
     margin-top: 10px;
 }
 
+footer {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #666;
+}
+
 @media (max-width: 600px) {
     h1 {
         font-size: 1.5em;
@@ -72,4 +80,10 @@ button:hover {
     input, button {
         font-size: 0.9em;
     }
+}
+
+footer a {
+	color: blue;
+	text-decoration: none;
+	font-weight: bold;
 }
